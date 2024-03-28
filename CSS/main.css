@@ -1,0 +1,91 @@
+
+.header-box {width: 1510px;
+    height: 134px;
+    gap: 0px;
+    opacity: 0px;
+    background: rgba(227, 215, 241, 1);
+   
+}
+.header-list {display: flex;
+    align-items: center;
+    justify-content: space-between;
+    list-style-type: none;
+}
+.header-logo {padding-top: 12px;
+}
+
+.header-logo-img {list-style-type: none;
+    margin-right: 30px;
+}
+
+.header-logo-link {text-decoration: none;
+}
+.logo-text {   
+    font-family: Gilroy;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 29px;
+    text-align: left;
+
+color: rgba(0, 0, 0, 1);
+
+}
+
+.hero-box {display: flex;
+}
+.hero-mini-box {padding-top: 120px;
+    margin-left: 60px;
+    width: 800px;
+    height: 450px;
+}
+.hero-paragraph {font-family: Gilroy;
+    font-size: 55px;
+    font-weight: 500;
+    line-height: 64.74px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+
+}
+.hero-text {position: relative;
+    bottom: 32px;
+    font-family: Roboto;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 29.3px;
+    text-align: left;
+    color: rgba(0, 0, 0, 1);
+
+}
+.hero-btn {font-family: Gilroy;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 35.31px;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    width: 250px;
+    height: 59.36px;
+    
+    
+    gap: 0px;
+    border-radius: 20px ;
+    opacity: 0px;
+    background: rgba(167, 144, 198, 1);
+    box-shadow: 0px 3px 10px 0px rgba(182, 155, 219, 0.6);
+
+
+}
+.hero-btn-2 {font-family: Gilroy;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 35.31px;
+    text-align: center;
+    color: rgb(143, 136, 136);
+    width: 250px;
+    height: 59.36px;
+    border-radius: 20px;
+    border: 3px solid rgba(167, 144, 198, 1)
+}
+
+.hero-img {
+    padding-top: 65px;
+}
